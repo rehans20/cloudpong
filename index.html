@@ -16,6 +16,7 @@
 
 
     <button id="start" onclick="myStart()">Start</button>
+    <button id="stop" onclick="myStop()">Stop</button>
 
     <style>
         body {
@@ -45,7 +46,7 @@
         #start {
             position: absolute;
             top: 90%;
-            left: 50%;
+            left: 40%;
             transform: translate(-50%, -50%);
             background-color: #FFF;
             color: #000;
@@ -54,6 +55,20 @@
             font-size: 20px;
             font-weight: bold;
             cursor: pointer;
+        }
+
+        #stop{
+           position: absolute;
+            top: 90%;
+            left: 60%;
+            transform: translate(-50%, -50%);
+            background-color: #FFF;
+            color: #000;
+            border: 2px solid #000;
+            padding: 10px;
+            font-size: 20px;
+            font-weight: bold;
+            cursor: pointer; 
         }
     </style>
 
