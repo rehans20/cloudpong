@@ -7,4 +7,4 @@ This website is an online pong game with where the player can test his skills ag
 
 >Refreshing the webpage can make you lose your current scores, so be careful of that.
 
-This site is published on [Ping-Pong](https://pages.github.com/)
+This site is published on [Ping-Pong](https://blue-grass-04118c210.azurestaticapps.net)
